@@ -5,6 +5,7 @@
 <p>I largely made it for my own purposes, so the .woff and .woff2 variants are based off the original variable .ttf version, meaning that they aren't properly divided into subsets. I may make a better version for web optimization sometime in the future.
 <br>But hey, if it's useful for anyone else.</p>
 
-<p>As of this writing, the font is made to pair with <a href="https://github.com/orioncactus/pretendard/releases/tag/v1.3.9">Pretendard v1.3.9.</a><
+<p>As of this writing, the font is made to pair with <a href="https://github.com/orioncactus/pretendard/releases/tag/v1.3.9">Pretendard v1.3.9.</a>
 <br>The data in this repository is not reflective of what's actually in the <a href="https://github.com/cemoon95/pretendard-italic/releases">releases page</a>, which is probably what you're here for anyway.
 <br>I don't think I'll be making any pull requests on the master branch anytime soon with how glitchy and slapped together this is, so please consider this as just a "better than not having it all" option rather than a proper solution.</p>
+
